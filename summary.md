@@ -1,4 +1,5 @@
-```1. DESCRIPTIVE STATISTICS (1-2)
+```
+1. DESCRIPTIVE STATISTICS (1-2)
    ├─ Mean (average)
    ├─ Median (middle value)
    ├─ Mode (most frequent)
