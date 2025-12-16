@@ -1,4 +1,4 @@
-1. DESCRIPTIVE STATISTICS (1-2)
+```1. DESCRIPTIVE STATISTICS (1-2)
    ├─ Mean (average)
    ├─ Median (middle value)
    ├─ Mode (most frequent)
@@ -47,6 +47,6 @@ statistics-cheatsheet/
    ├─ subject_comparison.png
    ├─ normal_distributions.png
    ├─ binomial_distributions.png
-   └─ poisson_distributions.png
+   └─ poisson_distributions.png```
 
 
